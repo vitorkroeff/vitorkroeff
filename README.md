@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, meu nome é Vitor!
 
-<!--
-**vitorkroeff/vitorkroeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cientista de dados e estudante de estatística na UFPR.
 
-Here are some ideas to get you started:
+- 💼 Analista de dados na [GhFly](https://ghfly.com/)
+- 🎓 Estudante de estatística pela UFPR
+- 👨🏻‍💻 Possuo experiência em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: inline-block;">
+  
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+</div>
+          
+          
