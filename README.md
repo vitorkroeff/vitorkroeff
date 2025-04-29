@@ -2,7 +2,7 @@
 
 Cientista de dados e estudante de estatística na UFPR.
 
-- 💼 Analista de dados na [GhFly](https://ghfly.com/)
+- 💼 Cientista de dados na [GhFly](https://ghfly.com/)
 - 🎓 Estudante de estatística pela UFPR
 - 👨🏻‍💻 Possuo experiência em:
 
