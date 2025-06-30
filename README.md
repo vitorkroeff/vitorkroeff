@@ -1,9 +1,9 @@
 ## Olá, meu nome é Vitor!
 
-Cientista de dados e estudante de estatística na UFPR.
+Cientista de dados e bacharel em estatística pela UFPR.
 
 - 💼 Cientista de dados no [Grupo OM]([https://ghfly.com/](https://grupoom.com.br/))
-- 🎓 Estudante de estatística pela UFPR
+- 🎓 Estatística
 - 👨🏻‍💻 Possuo experiência em:
 
 
