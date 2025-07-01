@@ -2,7 +2,7 @@
 
 Cientista de dados e bacharel em estatística pela UFPR.
 
-- 💼 Cientista de dados no [Grupo OM]([https://ghfly.com/](https://grupoom.com.br/))
+- 💼 Cientista de dados no [Grupo OM](https://grupoom.com.br/)
 - 🎓 Estatística UFPR
 - 👨🏻‍💻 Possuo experiência em:
 
