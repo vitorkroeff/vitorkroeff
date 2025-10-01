@@ -2,7 +2,7 @@
 
 Cientista de dados e bacharel em estatística pela UFPR.
 
-- 💼 Cientista de dados no [Cadastra](https://pt.cadastra.com/)
+- 💼 Cientista de dados na [Cadastra](https://pt.cadastra.com/)
 - 🎓 Estatística UFPR
 - 👨🏻‍💻 Possuo experiência em:
 
