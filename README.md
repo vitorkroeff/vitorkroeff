@@ -2,7 +2,7 @@
 
 Cientista de dados e bacharel em estatística pela UFPR.
 
-- 💼 Cientista de dados no [Grupo OM](https://grupoom.com.br/)
+- 💼 Cientista de dados no [Cadastra](https://pt.cadastra.com/)
 - 🎓 Estatística UFPR
 - 👨🏻‍💻 Possuo experiência em:
 
