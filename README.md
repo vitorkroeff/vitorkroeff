@@ -4,8 +4,8 @@ Sou cientista de dados e bacharel em Estatística pela UFPR.
 
 - 💼 Cientista de dados na [Cadastra](https://en.cadastra.com/)  
 - 🎓 Estatística — UFPR  
-- 👨🏻‍💻 Utilizo este espaço para compartilhar projetos, estudos e testes pessoais  
-- 📊 Áreas de interesse: machine learning, sistemas de recomendação e análise de sobrevivência.
+- 👨🏻‍💻 Utilizo este espaço para compartilhar materiais de estudo e projetos pessoais.
+- 📊 Áreas de interesse: Inferência, Sistemas de Eecomendação e Análise de Sobrevivência.
 
 ### 🛠️ Tecnologias
 
